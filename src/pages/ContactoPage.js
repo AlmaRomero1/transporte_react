@@ -41,7 +41,7 @@ const ContactoPages = (props) =>{
             </ul>
             <div className="mapa">
                 <iframe 
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3406.7152105184573!2d-64.23576282026865!3d-31.366837158566433!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94329935b68e47bb%3A0x42ed7f6c1c2665fb!2zQXYuIFJhZmFlbCBOw7rDsWV6LCBDw7NyZG9iYQ!5e0!3m2!1ses!2sar!4v1716212982841!5m2!1ses!2sar" style={{border:0, width:500, height:300 }}></iframe>
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3406.7152105184573!2d-64.23576282026865!3d-31.366837158566433!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94329935b68e47bb%3A0x42ed7f6c1c2665fb!2zQXYuIFJhZmFlbCBOw7rDsWV6LCBDw7NyZG9iYQ!5e0!3m2!1ses!2sar!4v1716212982841!5m2!1ses!2sar" style={{border:0, width:500, height:300 }} title='mapa'></iframe>
 
             </div>
         </div>    
